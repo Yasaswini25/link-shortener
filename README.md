@@ -1,7 +1,7 @@
-# link-shortener
+# Link-Shortener
 Deployment-link:- https://yasaswini25.github.io/link-shortener/
 ### Project:-
-In this project I have created a Recipe Book Application using HTML, CSS and Javascript by using the MealDB API.
+In this project I have created a Link Shortener Application using HTML, CSS and JavascriptI.
 ### Skills:-
 [![skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 ### Landing page:-
